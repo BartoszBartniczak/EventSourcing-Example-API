@@ -7,9 +7,19 @@ web:
   volumes:
     - ./:/app
     - ./docker/nginx/eventsourcing-api.conf:/etc/nginx/conf.d/eventsourcing-api.conf
+    - ./docker/nginx/logs:/var/log/nginx
 
 php:
   build: docker/php-fpm
+  links:
+    - elastic
   volumes:
     - ./:/app
   working_dir: /app
+
+elastic:
+  image: elasticsearch:latest
+  ports:
+    - "9200:9200"
+  volumes:
+    - ./docker/elasticsearch/data:/usr/share/elasticsearch/data

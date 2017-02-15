@@ -17,3 +17,5 @@
 .idea/
 tests/_output/*
 src/AppBundle/tests/_output/*
+docker/elasticsearch/data/*
+docker/nginx/logs/*

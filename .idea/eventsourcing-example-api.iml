@@ -23,6 +23,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/orm" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/facebook/webdriver" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/friendsofsymfony/elastica-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/friendsofsymfony/rest-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/guzzlehttp/guzzle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/guzzlehttp/promises" />
@@ -52,6 +53,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/http-message" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ruflin/elastica" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/comparator" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/diff" />
@@ -132,6 +134,7 @@
           <root url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/orm" />
           <root url="file://$MODULE_DIR$/vendor/facebook/webdriver" />
+          <root url="file://$MODULE_DIR$/vendor/friendsofsymfony/elastica-bundle" />
           <root url="file://$MODULE_DIR$/vendor/friendsofsymfony/rest-bundle" />
           <root url="file://$MODULE_DIR$/vendor/guzzlehttp/guzzle" />
           <root url="file://$MODULE_DIR$/vendor/guzzlehttp/promises" />
@@ -161,6 +164,7 @@
           <root url="file://$MODULE_DIR$/vendor/psr/http-message" />
           <root url="file://$MODULE_DIR$/vendor/psr/log" />
           <root url="file://$MODULE_DIR$/vendor/ramsey/uuid" />
+          <root url="file://$MODULE_DIR$/vendor/ruflin/elastica" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/comparator" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/diff" />
@@ -213,6 +217,7 @@
           <root url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/orm" />
           <root url="file://$MODULE_DIR$/vendor/facebook/webdriver" />
+          <root url="file://$MODULE_DIR$/vendor/friendsofsymfony/elastica-bundle" />
           <root url="file://$MODULE_DIR$/vendor/friendsofsymfony/rest-bundle" />
           <root url="file://$MODULE_DIR$/vendor/guzzlehttp/guzzle" />
           <root url="file://$MODULE_DIR$/vendor/guzzlehttp/promises" />
@@ -242,6 +247,7 @@
           <root url="file://$MODULE_DIR$/vendor/psr/http-message" />
           <root url="file://$MODULE_DIR$/vendor/psr/log" />
           <root url="file://$MODULE_DIR$/vendor/ramsey/uuid" />
+          <root url="file://$MODULE_DIR$/vendor/ruflin/elastica" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/comparator" />
           <root url="file://$MODULE_DIR$/vendor/sebastian/diff" />
